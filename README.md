@@ -15,20 +15,20 @@
   *Empowering coffee farmers with decentralized marketplace technology*
 </div>
 
-## 🌟 Overview
+## Overview
 
 Coffee Farm Market is a revolutionary decentralized marketplace built on the Stacks blockchain that connects coffee farmers directly with buyers worldwide. By leveraging smart contracts and modern web technologies, we eliminate intermediaries, ensure fair pricing, and provide transparent, secure transactions using STX tokens.
 
-### ✨ Key Highlights
+### Key Highlights
 
-- **🚀 Decentralized**: Direct farmer-to-buyer transactions
-- **🔒 Secure**: Clarity smart contracts with audited security
-- **🌐 Transparent**: All transactions on blockchain
-- **📱 User-Friendly**: Modern React frontend with wallet integration
-- **⚡ Fast**: Optimized for performance and scalability
-- **♻️ Sustainable**: Supporting fair trade coffee practices
+- **Decentralized**: Direct farmer-to-buyer transactions
+- **Secure**: Clarity smart contracts with audited security
+- **Transparent**: All transactions on blockchain
+- **User-Friendly**: Modern React frontend with wallet integration
+- **Fast**: Optimized for performance and scalability
+- **Sustainable**: Supporting fair trade coffee practices
 
-## 🏗️ Architecture
+## Architecture
 
 ### System Architecture
 
@@ -80,28 +80,28 @@ graph TD
     style D fill:#e8f5e8
 ```
 
-## 🚀 Features
+## Features
 
 ### For Farmers
-- ✅ **Easy Registration**: Simple onboarding process
-- ✅ **Product Listing**: List coffee bags with details and pricing
-- ✅ **Inventory Control**: Automatic quantity management
-- ✅ **Earnings Dashboard**: Real-time earnings tracking
-- ✅ **Secure Withdrawals**: Direct STX token withdrawals
+- **Easy Registration**: Simple onboarding process
+- **Product Listing**: List coffee bags with details and pricing
+- **Inventory Control**: Automatic quantity management
+- **Earnings Dashboard**: Real-time earnings tracking
+- **Secure Withdrawals**: Direct STX token withdrawals
 
 ### For Buyers
-- ✅ **Browse Products**: Discover coffee from verified farmers
-- ✅ **Secure Payments**: STX token transactions
-- ✅ **Transaction History**: Complete purchase records
-- ✅ **Quality Assurance**: Farmer-verified products
+- **Browse Products**: Discover coffee from verified farmers
+- **Secure Payments**: STX token transactions
+- **Transaction History**: Complete purchase records
+- **Quality Assurance**: Farmer-verified products
 
 ### Platform Features
-- ✅ **Multi-Wallet Support**: Leather, Xverse, and more
-- ✅ **Mobile Responsive**: Works on all devices
-- ✅ **Real-time Updates**: Live transaction status
-- ✅ **Low Fees**: Minimal platform fees
+- **Multi-Wallet Support**: Leather, Xverse, and more
+- **Mobile Responsive**: Works on all devices
+- **Real-time Updates**: Live transaction status
+- **Low Fees**: Minimal platform fees
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 19.2.3** - Modern UI framework
@@ -121,7 +121,7 @@ graph TD
 - **ESLint** - Code linting
 - **PostCSS** - CSS processing
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
@@ -153,7 +153,7 @@ graph TD
    npm test
    ```
 
-## 🧪 Testing
+## Testing
 
 ### Frontend Tests
 ```bash
@@ -171,7 +171,7 @@ npm run test
 pnpm test:e2e
 ```
 
-## 🚢 Deployment
+## Deployment
 
 ### Smart Contract Deployment
 
@@ -192,7 +192,7 @@ pnpm preview
 
 Deploy to Vercel, Netlify, or any static hosting service.
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -203,7 +203,7 @@ VITE_WALLET_CONNECT_PROJECT_ID=your_project_id
 VITE_STACKS_API_URL=https://api.mainnet.stacks.co
 ```
 
-## 🔗 Smart Contract Integration
+## Smart Contract Integration
 
 The frontend seamlessly integrates with the Clarity smart contract deployed on the Stacks blockchain using the following libraries:
 
@@ -229,14 +229,14 @@ The frontend provides UI for all major contract functions:
 
 All transactions are signed by the user's wallet and broadcast to the Stacks network, ensuring security and decentralization.
 
-## 📊 Performance
+## Performance
 
 - ** Lighthouse Score**: 95+ on all metrics
 - ** Bundle Size**: <200KB gzipped
 - ** First Paint**: <1.5s
 - ** Time to Interactive**: <2s
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -253,17 +253,17 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - Use conventional commits
 - Maintain code coverage >90%
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Stacks Foundation for blockchain infrastructure
 - Coffee farmers worldwide for inspiration
 - Open source community for amazing tools
 
-## 📞 Support
+## Support
 
 - **Documentation**: [docs.coffeefarm.market](https://docs.coffeefarm.market)
 - **Discord**: [Join our community](https://discord.gg/coffeefarm)
@@ -272,7 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Built with ❤️ for the coffee farming community</p>
+  <p>Built with love for the coffee farming community</p>
   <p>
     <a href="#overview">Overview</a> •
     <a href="#features">Features</a> •
