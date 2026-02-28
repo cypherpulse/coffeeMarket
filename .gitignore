@@ -5,7 +5,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # Clarity
-*.clar~
+
+
+*.sh
 
 # Build outputs
 dist/
